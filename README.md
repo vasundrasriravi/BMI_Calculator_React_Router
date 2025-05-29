@@ -287,9 +287,11 @@ export default App;
 ```
 
 ## OUTPUT
+![Screenshot 2025-05-29 192221](https://github.com/user-attachments/assets/f7b002d7-bd82-4ae5-9b0c-31a0a6b98842)
 
+![Screenshot 2025-05-29 192238](https://github.com/user-attachments/assets/bf534335-35a3-43dd-b26f-ff7d234a5be7)
 
-
+![Screenshot 2025-05-29 192252](https://github.com/user-attachments/assets/3b23aa8b-c3bf-4ba4-986b-3e50bfbcfb5d)
 
 ## RESULT
 The BMI Calculator successfully takes user input for height and weight, performs the BMI calculation in real-time using React state and event handling, and displays the BMI value along with the corresponding health category.
